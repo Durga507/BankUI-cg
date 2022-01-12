@@ -1,8 +1,12 @@
 package com.bankui;
 
+
+
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-public class AppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
+
+public class AppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer{
+
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
 		// TODO Auto-generated method stub
@@ -18,4 +22,5 @@ public class AppInitializer extends AbstractAnnotationConfigDispatcherServletIni
 	protected String[] getServletMappings() {
 		return new String[]{"/"};
 	}
+
 }
