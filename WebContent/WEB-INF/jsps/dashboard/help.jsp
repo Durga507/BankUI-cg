@@ -38,12 +38,12 @@
     <h2 class="accordion-header" id="headingOne">
     
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-      Where can in edit my address?
+      How can I update my mobile number?
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
       <div class="accordion-body">
-        <strong>If you created a new account after or while ordering you can edit both addresses (for billing and shipping) in your customer account.<code>.accordion-body</code>, though the transition does limit overflow.</strong>
+        <strong>You can update your mobile number for the bank account by visiting nearest branch of our Bank.</strong>
       </div>
     </div>
   </div>
@@ -52,17 +52,30 @@
     <h2 class="accordion-header" id="headingOne">
     
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-      Where can in edit my address?
+      How can I change my pin number?
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
       <div class="accordion-body">
-        <strong>If you created a new account after or while ordering you can edit both addresses (for billing and shipping) in your customer account.<code>.accordion-body</code>, though the transition does limit overflow.</strong>
+        <strong>You can change your ATM pin number through ATM.</strong>
       </div>
     </div>
   </div>
   
+     <div class="accordion-item">
   
+    <h2 class="accordion-header" id="headingOne">
+    
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+      What is the daily transaction limit?
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
+      <div class="accordion-body">
+        <strong>The daily transaction Default limit for the day is INR 20,000</strong>
+      </div>
+    </div>
+  </div>
 </div>
 
 

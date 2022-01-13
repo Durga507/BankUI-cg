@@ -49,33 +49,27 @@
 
 <div class="form-group has-success">
   <label class="form-label mt-4" for="inputValid">Password</label>
-  <input type="text" value="correct value" class="form-control is-valid" id="inputValid">
+  <input type="text" value=" " class="form-control is-valid" id="inputValid">
   
 </div>
 
 <div class="form-group has-success">
   <label class="form-label mt-4" for="inputValid">Address</label>
-  <input type="text" value="correct value" class="form-control is-valid" id="inputValid">
+  <input type="text" value=" " class="form-control is-valid" id="inputValid">
   
 </div>
 
 <div class="form-group has-success">
   <label class="form-label mt-4" for="inputValid">City</label>
-  <input type="text" value="correct value" class="form-control is-valid" id="inputValid">
+  <input type="text" value=" " class="form-control is-valid" id="inputValid">
  </div>
 
-<div class="form-group has-success">
-  <label class="form-label mt-4" for="inputValid">State</label>
-  <input type="text" value="correct value" class="form-control is-valid" id="inputValid">
-  
-</div>
 
 <br/>
 <br/>
 <input type="submit" class="btn btn-primary btn-lg" value="Edit" />
 </sf:form>
   
-=
 </div>
 			</div>
 			<div class="col-lg-1"></div>

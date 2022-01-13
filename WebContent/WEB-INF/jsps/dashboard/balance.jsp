@@ -40,7 +40,6 @@
 			 <div class="card border-primary mb-3">
   <div class="card-header">Account Details</div>
    <h5>Your Account Number: </h5>
-  
     <%=account.getAccountNumber() %>
     <h5>Total Amount: </h5>
     <%=account.getBalance()%>
